@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib
+flask  # If you are deploying an API
+streamlit  # If you are using a web interface
+opencv-python  # If you are working with image data

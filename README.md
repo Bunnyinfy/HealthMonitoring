@@ -70,5 +70,6 @@ Contributions are welcome! Please follow these steps:
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes and push them to your branch.
 4. Create a pull request with detailed information about your changes.
+Thank you.
 
 ---
